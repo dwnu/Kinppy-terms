@@ -5,7 +5,9 @@ These Terms & Conditions (these “Terms”) contain the terms and conditions on
 
 ### BASIS OF LICENSE
 (a) These Terms and the Order set out the whole agreement between you and us for the supply of the Products. In order to participate in certain Products, you may be required to agree to additional terms and conditions; those additional terms are hereby incorporated into these Terms. Where such terms are inconsistent with these Terms, the additional terms shall control.
+
 (b) Please check that the details in these Terms and on the Order are complete and accurate before you use or commit yourself to purchase the Products.
+
 (c) AS PART OF YOUR USE OF THE PRODUCTS, YOU AFFIRMATIVELY CONSENT TO THE PROCESSING AND STORAGE OF YOUR PERSONAL INFORMATION IN THE UNITED STATES AND THE POLAND, INCLUDING THE PROCESSING AND STORING OF YOUR PERSONAL INFORMATION IN THE UNITED STATES AND THE POLAND FOR THE PURPOSES OF PROCESSING PAYMENTS AND TRACKING INDIVIDUAL USE OF THE PRODUCTS. BY USING THE PRODUCTS, YOU ACKNOWLEDGE THAT YOU UNDERSTAND AND AGREE THAT THE UNITED STATES AND THE POLAND MAY NOT HAVE THE SAME LEVEL OF PROTECTIONS FOR YOUR PERSONAL INFORMATION THAT EXIST IN YOUR COUNTRY OF RESIDENCE, AND YOU NONETHELESS CONSENT TO THE PROCESSING AND STORAGE OF YOUR PERSONAL INFORMATION IN THE UNITED STATES AND THE POLAND. WE WILL TAKE MEASURES AS REQUIRED TO COMPLY WITH APPLICABLE LAW REGARDING THE TRANSFER, STORAGE AND USE OF CERTAIN PERSONAL INFORMATION.
 
 ### CHANGES TO TERMS
@@ -34,8 +36,11 @@ By agreeing to become a Member you opt-in to receiving occasional special offer,
 - Paid Subscription: a subscription fee-based program, which gives access to all content including and beyond the "Basic". You will only have access to the Subscription Program while creator of the current family has active subscription. You may have access to a free trial period of the Subscription Program in accordance with certain promotional offers. All subscription services provide access through the Products. You can become a subscriber to the Subscription Program by purchasing a subscription to the Products within the Apps, where allowed by the App marketplace partners, or through a bundle with one or more of our bundle subscription partners. Please note that if you purchase a subscription through the Apple iTunes Store or our iPhone application, the sale is final, and we will not provide a refund. Your purchase will be subject to Apple’s applicable payment policy, which also may not provide for refunds. If you purchase a subscription through the Google Play store, the sale is final and we will not provide a refund. Your purchase will be subject to Google’s applicable payment policy, which also may not provide for refunds. If you purchase through one or more of our bundle subscription partners, the purchase may be further subject to the Terms and Conditions of such partners, and payment and management of the bundle subscription may be administered by them.
 
 (b) Our “Monthly” subscription is paid in monthly installments. For each month that your monthly subscription is active, you acknowledge and agree that we are authorized to charge the same credit card as was used for the initial subscription fee or other payment method (the “Payment Method”) in the amount of the current monthly subscription fee as of the time of renewal. The monthly renewal subscription fees will continue to be billed to the Payment Method you provided, automatically until cancelled. You must cancel your subscription before it renews each month in order to avoid billing of the next month’s subscription fee to the Payment Method you provided. Refunds cannot be claimed for any partial-month subscription period.
+
 (c) Kinppy offers certain special discount pricing options (the “Special Discount Pricing Options”). The Special Discount Pricing Options will permit users to access to the same content included in the Paid Subscription; such Special Discount Pricing Options shall only be available to qualified users (the “Qualified Users”). We reserves the right to determine if you are a Qualifying User in our sole discretion.
+
 (d) You agree to promptly notify Kinppy of any changes to the Payment Method you provided while any subscriptions remain outstanding. You are responsible for all applicable fees and charges incurred, including applicable taxes, and all subscriptions purchased by you.
+
 (e) Our obligation to provide the Products only comes into being when we take receipt of your Order. Please quote the Order number in all subsequent correspondence with us. You agree not to hold us responsible for banking charges incurred due to payments on your account. If payment is not received by us from the Payment Method you provided, you agree to pay all amounts due upon demand by us.
 
 ### CHANGING FEES AND CHARGES
@@ -72,6 +77,7 @@ We will not be liable to you for any lack of performance, or the unavailability 
 
 ### THIRD PARTY RIGHTS
 A person who is not a party to these Terms will not have any rights under or in connection with these Terms.
+
 
 
 These Terms are effective and were last updated on May 21, 2019.
